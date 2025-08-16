@@ -4,7 +4,7 @@ Hello, my name is Arthur, and I'm a 3rd-year Software Engineering student at McG
 ## Things I use 🛠️
 * Languages: Go, C, C++, Java, Python, JS
 * Tools: Kafka, Redis, Docker, Jenkins, Ansible, Airflow
-* Framework: Gin, Django, React
+* Frameworks: Gin, Django, React
 
 ## Things I'm working on 🔭
 * BrawlPicks:
@@ -13,7 +13,7 @@ Hello, my name is Arthur, and I'm a 3rd-year Software Engineering student at McG
 ## Things I worked on 📚
 * Waitroom
     * An emergency room triage system using Django.
-* MashedPytatoes
+* MashedPytatoes (McGill ECSE 211)
     * A program that controls a BrickPy Robot.
     * Maps the robots surrounding using sensors, navigates to unvisited tiles using A* search.
   
