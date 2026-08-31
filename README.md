@@ -1,5 +1,5 @@
 ## Me 👋
-Hello, my name is Arthur, and I'm a 3rd-year Software Engineering student at McGill. I mainly work on backend & infra.
+Hello, my name is Arthur, and I'm a Software Engineering student at McGill. I mainly work on backend & infra.
 
 ## Things I use 🛠️
 * Languages: Go, C, C++, Java, Python, TS, JS
