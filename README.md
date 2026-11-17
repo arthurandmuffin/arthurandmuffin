@@ -1,4 +1,8 @@
-## Me 👋
+I work on backend & infra.
+
+One day I will make this about me fancier, but not today.
+
+<!--## Me 👋
 Hello, my name is Arthur, and I'm a Software Engineering student at McGill. I mainly work on backend & infra.
 
 ## Things I use 🛠️
@@ -32,7 +36,7 @@ Note: These are all public repos under my name, feel free to check them out!
     * A program that controls a BrickPy Robot.
     * Maps the robots surrounding using sensors, navigates to unvisited tiles using A* search.
   
-<!--
+
 **arthurandmuffin/arthurandmuffin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
